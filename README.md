@@ -13,3 +13,10 @@ Inicializa um repositório GIT
 
 ###### git status 
 Verifica em qual status o projeto se encontra
+
+###### git config --global user.name "Caio Willian"
+###### git config --global user.email "teste@teste.com"
+Adiciona usuário para configurações globais no git
+
+###### git config -l
+Lista as configurações de usuários existentes (verifica se os comandos de config funcionaram corretamente)

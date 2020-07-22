@@ -1,4 +1,4 @@
-# git-e-github-ninja
+# GIT e GITHUB
 
 O Git é uma ferramenta essencial quando você precisa ter controle sobre as versões dos seus projetos. Com ele, você pode desenvolver recursos aos poucos, mantendo cada estado do seu projeto, cada alteração e ainda permitindo a prática de trabalhar muito em uma equipe grande (ou com um projeto de código aberto, com vários colaboradores) e de forma ágil.
 
@@ -19,3 +19,19 @@ Existem requisitos ou pré-requisitos do curso?
 É necessário saber executar comandos no terminal SO
 Para quem é este curso:
 Programadores que aprenderam a trabalhar com versão de projetos, tanto pessoal, quanto em equipe.
+
+# ESTÁGIOS DO GIT 
+
+## No total o git possue 3 estágios
+
+###### working Directory
+(É onde está sendo trabalhado agora) 
+## command: git status
+
+###### Staging Area 
+(É quando o arquivo é adicion) 
+## command: git .add
+
+###### .git directory
+(É um repositório) Neste ponto o arquivo está fazendo parte da árvore do git. 
+## command: commit
