@@ -20,3 +20,11 @@ Adiciona usuário para configurações globais no git
 
 ###### git config -l
 Lista as configurações de usuários existentes (verifica se os comandos de config funcionaram corretamente)
+
+###### git log
+Exibe um log de todos os commits feitos
+
+###### git diff 
+Exibe os arquivos que foram modificados
+
+
