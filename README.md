@@ -27,4 +27,11 @@ Exibe um log de todos os commits feitos
 ###### git diff 
 Exibe os arquivos que foram modificados
 
+###### git add .
+Adiciona múltiplos arquivos de uma única vez
+
+###### git diff --staged
+Verifica as alterações que foram feitas no Staging Area que não tem no .git Directory
+
+
 
