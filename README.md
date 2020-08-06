@@ -43,3 +43,5 @@ Visualiza o nome dos arquivos que foram alterados
 Verifica as alterações feitas entre dois commits.
 Obs. Pode colocar somente os primeiros 7 dígitos do hash
 
+###### git rm < nome do arquivo >
+Remove o arquivo da árvore de diretórios do git
