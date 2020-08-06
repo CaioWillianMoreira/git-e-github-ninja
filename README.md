@@ -33,5 +33,13 @@ Adiciona múltiplos arquivos de uma única vez
 ###### git diff --staged
 Verifica as alterações que foram feitas no Staging Area que não tem no .git Directory
 
+###### git diff < nome do arquivo >
+Verifica as alterações que foram feitas no arquivo selecionado
 
+###### git log --name-status 
+Visualiza o nome dos arquivos que foram alterados
+
+###### git diff < hash1 hash2 > ou git diff < hash >
+Verifica as alterações feitas entre dois commits.
+Obs. Pode colocar somente os primeiros 7 dígitos do hash
 
