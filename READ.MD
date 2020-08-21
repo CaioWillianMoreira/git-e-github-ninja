@@ -19,22 +19,3 @@ Existem requisitos ou pré-requisitos do curso?
 É necessário saber executar comandos no terminal SO
 Para quem é este curso:
 Programadores que aprenderam a trabalhar com versão de projetos, tanto pessoal, quanto em equipe.
-
-# ESTÁGIOS DO GIT 
-
-## No total o git possue 3 estágios
-
-###### working Directory
-(É onde está sendo trabalhado agora) 
-## command: git status
-
-###### Staging Area 
-(É quando o arquivo é adicion) 
-## command: git .add
-
-###### .git directory
-(É um repositório) Neste ponto o arquivo está fazendo parte da árvore do git. 
-## command: commit
-
-## ESTÁGIOS DO GIT 
-![Alt text](git-estagios.jpg?raw=true "estágios do Git")

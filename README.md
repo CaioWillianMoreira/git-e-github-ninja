@@ -45,3 +45,23 @@ Obs. Pode colocar somente os primeiros 7 dígitos do hash
 
 ###### git rm < nome do arquivo >
 Remove o arquivo da árvore de diretórios do git
+
+## ESTÁGIOS DO GIT 
+
+## No total o git possue 3 estágios
+
+###### working Directory
+(É onde está sendo trabalhado agora) 
+
+## command: git status
+Exibe o status que os arquivos se encontram
+
+###### Staging Area 
+(É quando o arquivo é adicion) 
+## command: git .add
+
+###### .git directory
+(É um repositório) Neste ponto o arquivo está fazendo parte da árvore do git. 
+## command: commit
+
+![alt text](https://raw.githubusercontent.com/CaioWillianMoreira/git-e-github-ninja/master/git-estagios.png)
