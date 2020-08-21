@@ -44,11 +44,9 @@ Verifica as alterações feitas entre dois commits.
 Obs. Pode colocar somente os primeiros 7 dígitos do hash
 
 ###### git rm < nome do arquivo >
-Remove o arquivo da árvore de diretórios do git colocando novamente no working directory novamente.
+Remove o arquivo da árvore de diretórios do git colocando novamente no working directory novamente. 
 
 #### Estágios do GIT 
-
-###### No total o git possue 3 estágios
 
 ###### working Directory
 (É onde está sendo trabalhado agora) 
@@ -66,6 +64,10 @@ Exibe o status que os arquivos se encontram
 ###### command:git commit -m ""
 Envia os arquivos para o repositório
 
+###### No total o git possue 3 estágios
+
 ![alt text](https://raw.githubusercontent.com/CaioWillianMoreira/git-e-github-ninja/master/git-estagios.png)
 
+###### git add --all ou git add -A
+Adiciona todas as ações do working directory para árvore do git
 
