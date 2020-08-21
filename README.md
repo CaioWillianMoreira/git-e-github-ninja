@@ -58,10 +58,12 @@ Exibe o status que os arquivos se encontram
 
 ###### Staging Area 
 (É quando o arquivo é adicion) 
-## command: git .add
+###### command: git .add
 
 ###### .git directory
 (É um repositório) Neste ponto o arquivo está fazendo parte da árvore do git. 
-## command: commit
+
+###### command:git commit
+Envia os arquivos para o repositório
 
 ![alt text](https://raw.githubusercontent.com/CaioWillianMoreira/git-e-github-ninja/master/git-estagios.png)
