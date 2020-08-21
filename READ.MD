@@ -35,3 +35,6 @@ Programadores que aprenderam a trabalhar com versão de projetos, tanto pessoal,
 ###### .git directory
 (É um repositório) Neste ponto o arquivo está fazendo parte da árvore do git. 
 ## command: commit
+
+## ESTÁGIOS DO GIT 
+![Alt text](git-estagios.jpg?raw=true "estágios do Git")
