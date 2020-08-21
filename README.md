@@ -44,7 +44,7 @@ Verifica as alterações feitas entre dois commits.
 Obs. Pode colocar somente os primeiros 7 dígitos do hash
 
 ###### git rm < nome do arquivo >
-Remove o arquivo da árvore de diretórios do git
+Remove o arquivo da árvore de diretórios do git colocando novamente no working directory novamente.
 
 #### Estágios do GIT 
 
@@ -63,7 +63,9 @@ Exibe o status que os arquivos se encontram
 ###### .git directory
 (É um repositório) Neste ponto o arquivo está fazendo parte da árvore do git. 
 
-###### command:git commit
+###### command:git commit -m ""
 Envia os arquivos para o repositório
 
 ![alt text](https://raw.githubusercontent.com/CaioWillianMoreira/git-e-github-ninja/master/git-estagios.png)
+
+
