@@ -46,9 +46,9 @@ Obs. Pode colocar somente os primeiros 7 dígitos do hash
 ###### git rm < nome do arquivo >
 Remove o arquivo da árvore de diretórios do git
 
-## ESTÁGIOS DO GIT 
+## Estágios do GIT 
 
-## No total o git possue 3 estágios
+##### No total o git possue 3 estágios
 
 ###### working Directory
 (É onde está sendo trabalhado agora) 
